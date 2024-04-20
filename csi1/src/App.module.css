@@ -1,0 +1,13 @@
+.container{
+    border: 2px solid black;
+    max-width: 300px;
+    border-radius: 16px;
+    /* background-color: red; */
+}
+.row1{
+margin: 3px 0px ;
+}.container2{
+    border-radius: 12px;
+    margin-top: 20px;
+    background-color: rgb(38, 38, 6);
+}

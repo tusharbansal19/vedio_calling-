@@ -1,0 +1,33 @@
+/* .re1{
+    display: flex;
+}
+#inp{
+    height: 100%;
+    width: 100%;
+    border-radius: 6px ;
+
+}
+#dt{
+    border-radius: 6px ;
+
+    height: 100%;
+    width: 100%;
+}
+.cl{
+height: 100%;
+width: 100%;
+}.ct{
+    margin-left: 12px;
+    width: 100%;
+} */
+.fl{
+    border: 2px solid black;
+    height: 40px;
+    width: 100%;
+    border-radius: 12px;
+    outline: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* height: 100%; */
+    width: 100%;
+}

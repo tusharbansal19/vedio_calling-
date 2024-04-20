@@ -1,0 +1,9 @@
+h2{
+    display: flex;
+    font-weight: 700;
+    color: greenyellow;
+    justify-content: center;
+    align-items: center;
+    margin-top: 63px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,16 @@
+.re{
+    font-size: 18px;
+    display:flex;
+
+    /* flex-wrap: wrap; */
+
+}
+
+.ctr{
+    margin-bottom: 12px;
+    font-size: large;
+    font-family: none;
+    border-top: 1px solid darkcyan;
+    padding-top: 12px;
+    margin-bottom: 12px;
+}
